@@ -1,4 +1,4 @@
--- Original Library ---> https://raw.githubusercontent.com/deividcomsono/Obsidian/main/Library.lua
+-- Original Source ---> https://raw.githubusercontent.com/deividcomsono/Obsidian/main/Library.lua
 
 local cloneref = (cloneref or clonereference or function(instance: any)
     return instance
