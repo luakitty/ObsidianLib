@@ -50,11 +50,11 @@ do
     ThemeManager.BuiltInThemes = {
         ["Default"] = {
             1,
-            { FontColor = "ffffff", MainColor = "120b11", AccentColor = "d300fe", BackgroundColor = "080007", OutlineColor = "2e2132" },
+            { FontColor = "ffc9c9", MainColor = "220000", AccentColor = "ff0000", BackgroundColor = "040000", OutlineColor = "3d0000" },
         },
-        ["BBot"] = {
+        ["ObsidianDefault"] = {
             2,
-            { FontColor = "ffffff", MainColor = "1e1e1e", AccentColor = "7e48a3", BackgroundColor = "232323", OutlineColor = "141414" },
+            { FontColor = "ffffff", MainColor = "120b11", AccentColor = "d300fe", BackgroundColor = "080007", OutlineColor = "2e2132" },
         },
         ["Fatality"] = {
             3,
